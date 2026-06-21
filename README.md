@@ -1,2 +1,14 @@
 # rank-jiangnan-hub
-HTML page archive and documentation
+
+静态文件发布目录
+
+发布任务会在此仓库中维护页面文件，方便后续访问。
+
+## 发布文件
+
+- 新页面会作为 HTML 文件追加
+- 已有文件以仓库提交记录为准
+
+## 注意事项
+
+README 仅说明仓库用途，不替代具体页面内容。
